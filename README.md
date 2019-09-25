@@ -1,6 +1,6 @@
 ## Pre course 1주차 : JavaScript 기초 개념
 
-### 1일차 Learning
+### [1일차 Learning](https://danemi12.github.io/preCourse1/)
 
 - 변수
 - 타입
